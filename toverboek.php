@@ -74,4 +74,5 @@
     <img src="img/maanritueel.jpg" alt="Salie blad" height="130" width="180">
 </section>
 </body>
+<footer>© Copyright 2017/2018 Made by Kevin, Erwin, Patrick en Jasper</footer>
 </html>
