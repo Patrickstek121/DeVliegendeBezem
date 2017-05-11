@@ -1,0 +1,89 @@
+html {
+    height: 100%;
+    width: 100%;
+    font-family: "Century Gothic", Georgia, serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rebeccapurple;
+}
+
+.titelvak {
+
+}
+
+.titel {
+    text-align: center;
+    font-size: 40px;
+}
+
+.titellogo1{
+    float: left;
+    margin-top: -30px;
+    width: 100px;
+    height: 110px;
+
+}
+
+.titellogo2{
+    float: right;
+    margin-top: -120px;
+    width: 80px;
+    height: 105px;
+}
+
+nav{
+    text-align: center;
+    margin-top: 35px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: green;
+}
+
+li{
+    display: inline-block;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: mediumpurple;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    margin-left: 10px;
+}
+
+.tekst1 {
+    color: white;
+    margin-left: 3%;
+
+}
+
+.tekst2 {
+    color: white;
+    margin-left: 3%;
+}
+
+.tekst3 {
+    color: white;
+    margin-left: 3%;
+}
+
+.tekst4 {
+    color: white;
+    margin-left: 3%;
+}
