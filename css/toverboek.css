@@ -100,3 +100,12 @@ li a {
 li a:hover {
     background-color: forestgreen;
 }
+footer {
+    text-align: center;
+    background-color: green;
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
