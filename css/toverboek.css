@@ -4,6 +4,7 @@ body {
     padding: 0;
 }
 
+/* Wijsheid spreuk*/
 .wijsheid {
     margin-left: 5%;
     margin-top: 2%;
@@ -18,10 +19,8 @@ body {
 .salieli {
 
 }
-.receptenheader {
-    font-family: "Century Gothic";
-    font-size:20px;
-}
+
+/* Munten spreuk */
 .munt {
     margin-left: 5%;
     margin-top: 5%;
@@ -33,6 +32,8 @@ body {
 .muntspreuk {
     background-color: rebeccapurple;
 }
+
+/* maan spreuk */
 .maanritueel {
     margin-left: 5%;
 }
@@ -43,6 +44,8 @@ body {
 .maanspreuk {
     background-color: rebeccapurple;
 }
+
+
 html {
     height: 100%;
     width: 100%;
