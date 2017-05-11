@@ -35,7 +35,12 @@
     <p class="welkombericht">
         Welkom in De Vliegende Bezem, hier kunnen heksen hun bezems kopen of
         nieuwe ketels bestellen omdat de oude veroest is..<br> Kijk even rond en misschien
-        zie je nog wat leuks.
+        zie je nog wat leuks. <br><br>
+
+        Een heks is volgens het volksgeloof iemand, meestal een vrouw, die in contact treedt met
+        boze machten, waardoor zij (of in enkele gevallen hij) in staat is mensen en dieren te betoveren
+        en hun schade te berokkenen, soms ook hen te genezen.
+        In de regel ligt in het volksgeloof de nadruk op het kwaadaardig handelen van de heks.
     </p>
 </section>
 
@@ -43,20 +48,17 @@
 <div class="slideshow-container">
     <div class="mySlides fade">
         <div class="numbertext">1 / 3</div>
-        <img src="img/witch1.jpg" class="witch123" style="width:100%">
-        <div class="text">Caption Text</div>
+        <img src="img/witch1.jpg" class="witch123">
     </div>
 
     <div class="mySlides fade">
         <div class="numbertext">2 / 3</div>
-        <img src="img/witch2.jpg" class="witch123" style="width:100%">
-        <div class="text">Caption Two</div>
+        <img src="img/witch2.jpg" class="witch123">
     </div>
 
     <div class="mySlides fade">
         <div class="numbertext">3 / 3</div>
-        <img src="img/witch3.jpg" class="witch123" style="width:100%">
-        <div class="text">Caption Three</div>
+        <img src="img/witch3.jpg" class="witch123">
     </div>
 
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
