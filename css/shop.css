@@ -1,0 +1,213 @@
+html {
+    height: 100%;
+    width: 100%;
+    font-family: "Century Gothic", Georgia, serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rebeccapurple;
+}
+
+.titel {
+    text-align: center;
+    font-size: 40px;
+}
+
+.titellogo1{
+    float: left;
+    margin-top: -30px;
+    width: 100px;
+    height: 110px;
+
+}
+
+.titellogo2{
+    float: right;
+    margin-top: -120px;
+    width: 80px;
+    height: 105px;
+}
+
+nav{
+    text-align: center;
+    margin-top: 35px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: green;
+}
+
+li{
+    display: inline-block;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: forestgreen;
+}
+
+/* Vak waar de shop in beschreven staat */
+.shoptekstvak{
+    height: 160px;
+    width: 100%;
+    background-color: mediumpurple;
+}
+
+.shoptekstvakheading{
+    text-align: left;
+    font-family: "Century Gothic";
+    font-size: 120px;
+
+}
+
+/* tekst in het 1ste vak */
+.shoptekstvaktxt{
+    margin-left: 20%;
+    margin-top: -5%;
+    font-family: "Century Gothic";
+    font-size: 20px;
+}
+
+/* Heading van de ketel sectie */
+.h1Ketels {
+    text-align: center;
+}
+
+/* Vak waar de ketels in staan */
+.ketels {
+    height: 300px;
+    width: 100%;
+    margin-top: 20px;
+    background-color: forestgreen;
+
+}
+
+/* 1ste artikel van de ketels */
+.ketel1vak {
+    height: 250px;
+    width: 500px;
+    background-color: mediumpurple;
+    margin-top: 0.3%;
+}
+.ketel1 {
+    height: 200px;
+    margin-left: 62%;
+    margin-top: 10%;
+
+}
+.ketel1txt {
+    margin-top: -55%;
+}
+
+/* 2de artikel van de ketels */
+.ketel2vak {
+    height: 250px;
+    width: 500px;
+    background-color: mediumpurple;
+    margin-top: -13.2%;
+    margin-left: 37%;
+}
+.ketel2 {
+    height: 250px;
+    margin-left: 62%;
+    margin-top: 2%;
+
+}.ketel2txt {
+    margin-top: -57%;
+ }
+
+/* 3de artikel van de ketels */
+ .ketelvak3 {
+     height: 250px;
+     width: 500px;
+     background-color: mediumpurple;
+     margin-top: -13.2%;
+     margin-left: 73.9%;
+ }
+.ketel3 {
+    height: 200px;
+    margin-left: 70%;
+    margin-top: 9%;
+}
+.ketel3txt{
+    margin-top: -54%;
+}
+
+.bezems {
+    height: 300px;
+    width: 100%;
+    margin-top: 20px;
+    background-color: forestgreen;
+
+}
+
+.h1Bezems {
+    text-align: center;
+}
+
+.bezem1vak {
+    height: 250px;
+    width: 500px;
+    background-color: mediumpurple;
+    margin-top: -0%;
+}
+
+.bezem1 {
+    height: 200px;
+    margin-left: 65%;
+    margin-top: 9%;
+}
+
+.bezem1txt {
+    margin-top: -54%;
+}
+
+.bezem2vak {
+    height: 250px;
+    width: 500px;
+    background-color: mediumpurple;
+    margin-top: -13.2%;
+    margin-left: 37%;
+}
+
+.bezem2 {
+    height: 220px;
+    margin-left: 70%;
+    margin-top: 6%;
+}
+.bezem2txt {
+    margin-top: -55%;
+}
+
+.bezem3vak {
+    height: 250px;
+    width: 500px;
+    background-color: mediumpurple;
+    margin-top: -13.1%;
+    margin-left: 73.9%;
+}
+.bezem3 {
+    height: 200px;
+    margin-left: 40%;
+    margin-top: 9%;
+}
+
+.bezem3txt {
+    margin-top: -54%;
+}
+
+
+
+
+
